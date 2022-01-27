@@ -1,9 +1,9 @@
 <template>
   <div>
-    home
+      myview
   </div>
 </template>
-  
+
 <script>
 export default {
 

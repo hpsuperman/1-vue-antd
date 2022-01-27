@@ -1,11 +1,9 @@
 import Vue from 'vue'
 import App from './App'
 import VueRouter from 'vue-router'
-import routes from '../src/router/index'
+import routes from '../src/routes/index'
 import Antd from 'ant-design-vue';
 import 'ant-design-vue/dist/antd.css';
-
-
 
 Vue.use(Antd);
 Vue.use(VueRouter)
